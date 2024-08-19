@@ -13,7 +13,7 @@ This repository serves as a record of my journey through the challenge. Here, yo
 
 ## LeetCode ID: https://leetcode.com/u/prachi105/
 ## 2nd leetcode ID:
-prachipatel5441
+https://leetcode.com/u/prachipatel5441/
 ## GeeksforGeeks ID: https://www.geeksforgeeks.org/user/prachipa8ow8/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
 
 
