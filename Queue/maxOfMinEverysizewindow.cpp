@@ -8,7 +8,7 @@ public:
         vector<int> left(n), right(n);
 
         //  array to store the maximum of minimums for every window size
-        // Initialize it with 0, till n+1 bcoz last index is n-1, which is 7
+        // Initialize it with 0, till n+1 bcoz last index is n-1, which is n
         vector<int> ans(n+1, 0);
 
         // Previous Smaller Element
