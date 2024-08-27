@@ -53,7 +53,7 @@ public:
         // if key exists in map
         if (mpp.find(key_) != mpp.end())
         {
-            // map staores node reference means gives entire node
+            // map stores node reference means gives entire node
             node *resnode = mpp[key_];
             // take value
             int res = resnode->val;
